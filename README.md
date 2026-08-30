@@ -5,6 +5,8 @@ Unlike the original single-file implementation, this version features
 a multi-file architecture and an integrated caching mechanism for 
 faster thumbnail retrieval.
 
+![raypaper_prev](./raypaper_prev.gif)
+
 ## "Features"
 
 *   **Multiple Layouts**: Switch between four different animated layouts (Grid, Horizontal River, Vertical River, Wave).
